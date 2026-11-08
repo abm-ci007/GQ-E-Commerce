@@ -1,0 +1,11 @@
+Request
+   ↓
+URL
+   ↓
+View
+   ↓
+Serializer
+   ↓
+Model
+   ↓
+Database
